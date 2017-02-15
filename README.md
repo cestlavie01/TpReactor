@@ -174,6 +174,6 @@ colum1|column2
 2|jtlee2
 ```
 colum1|column2
--------------------
+--------|-----------
 1|jtlee
 2|jtlee2
