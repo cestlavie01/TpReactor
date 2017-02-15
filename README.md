@@ -1,5 +1,11 @@
 # TpReactor
 
+***
+  _italic_
+_italic_
+  **bold**
+**bold**
+
 * * *
   # H1  
 # H1
@@ -33,9 +39,8 @@
 >>>>>>> TIER 7
 
 * * *
-  > # H1  
+
 > # H1
-  > ## H2  
 > ## H2
 
 * * *
@@ -47,36 +52,26 @@
 2. SECOND
 
 * * *
-  * DEPT1  
-    * DEPT2  
-      * DEPT 3  
 * DEPT1
   * DEPT2
     * DEPT 3
     
-  + DEPT1  
-    + DEPT2  
-      + DEPT3  
 + DEPT1
   + DEPT2
     + DEPT3
     
-
-  - DEPT1  
-  - DEPT1  
-  - DEPT1  
 - DEPT1
 - DEPT1
 - DEPT1
 
 * * *
-START CODE:
-    #include <stdio.h>
-    int main() {
-        printf("hello world!\n");
-        return 0;
-    }
-END CODE:
+START CODE:  
+    #include <stdio.h>  
+    int main() {  
+        printf("hello world!\n");  
+        return 0;  
+    }  
+END CODE:  
 
 * * *
 Link:[My Blog][my_blog_url]
@@ -86,4 +81,7 @@ MyBlog:<http://blog.naver.com/cestlavie_01>
 
 * * *  
 google[^1]
+
+
+***
 [^1]: 짱큰회사
