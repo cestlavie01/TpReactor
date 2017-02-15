@@ -9,7 +9,7 @@
 `block comment`  
 ~~~  
 
-*italic*
+*italic*  
 **bold**  
 ***_bold italic***  
 ~~cancle~~  
@@ -32,27 +32,41 @@
 ####### H7
 
 * * *
-  > TIER 1  
+~~~
+> TIER 1  
+>> TIER 2  
+>>> TIER 3  
+>>>> TIER 4  
+>>>>> TIER 5  
+>>>>>> TIER 6  
+>>>>>>> TIER 7  
+~~~
+
 > TIER 1
-  >> TIER 2  
->> TIER 2
-  >>> TIER 3  
+>> TIER 2 
 >>> TIER 3
-  >>>> TIER 4  
->>>> TIER 4
-  >>>>> TIER 5  
->>>>> TIER 5
-  >>>>>> TIER 6  
->>>>>> TIER 6
-  >>>>>>> TIER 7  
->>>>>>> TIER 7
+>>>> TIER 4  
+>>>>> TIER 5  
+>>>>>> TIER 6  
+>>>>>>> TIER 7  
 
 * * *
-
+~~~
+> # H1  
+> ## H2  
+~~~
 > # H1
 > ## H2
 
 * * *
+~~~
+  1. FIRST  
+  3. THIRD  
+  2. SECOND    
+1. FIRST  
+3. 세번째  
+2. SECOND  
+~~~
   1. FIRST  
   3. THIRD  
   2. SECOND  
@@ -60,6 +74,17 @@
 3. 세번째
 2. SECOND
 
+~~~
+1. FIRST  
+3. 세번째  
+2. SECOND  
+  1. FIRST  
+  3. 세번째  
+  2. SECOND  
+    1. FIRST  
+    3. 세번째  
+    2. SECOND  
+~~~
 1. FIRST
 3. 세번째
 2. SECOND
@@ -71,6 +96,19 @@
     2. SECOND
 
 * * *
+~~~
+* DEPT1  
+  * DEPT2  
+    * DEPT 3  
+    
++ DEPT1  
+  + DEPT2  
+    + DEPT3  
+    
+- DEPT1  
+- DEPT1  
+- DEPT1  
+~~~
 * DEPT1
   * DEPT2
     * DEPT 3
