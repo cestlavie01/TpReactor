@@ -9,8 +9,6 @@ _italic_
 ***_bold italic***  
   ~~cancle~~  
 ~~cancle~~  
-  <U>underline</U>
-<U>underline</U>
   `block comment`
 `block comment`
 
