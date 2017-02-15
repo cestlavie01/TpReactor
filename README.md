@@ -51,6 +51,16 @@ _italic_
 3. 세번째
 2. SECOND
 
+1. FIRST
+3. 세번째
+2. SECOND
+  1. FIRST
+  3. 세번째
+  2. SECOND
+    1. FIRST
+    3. 세번째
+    2. SECOND
+
 * * *
 * DEPT1
   * DEPT2
