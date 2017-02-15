@@ -172,10 +172,14 @@ colum1|column2
 --------|-----------
 1|jtlee
 2|jtlee2
+3|
+ |jtlee4
+ | 
 ```
 colum1|column2
 --------|-----------
 1|jtlee
 2|jtlee2
-123123
-| 123123
+3|
+ |jtlee4
+ | 
