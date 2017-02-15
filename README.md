@@ -158,10 +158,10 @@ google[^1]
 
 ***
 ```
-[] to do list 1
-[] to do list 2
-[X] to do list 3
+- [] to do list 1
+- [] to do list 2
+- [X] to do list 3
 ```
-[] to do list 1
-[] to do list 2
-[X] to do list 3
+- [] to do list 1
+- [] to do list 2
+- [x] to do list 3
