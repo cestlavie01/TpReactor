@@ -183,3 +183,16 @@ colum1|column2
 3|
  |jtlee4
  | 
+
+***
+```
+:+1:  
+:-1:  
+:shipit:  
+:100:  
+```
+:+1:  
+:-1:  
+:shipit:  
+:100:  
+more emojis:<https://scotch.io/bar-talk/emoji-icons-in-github-commit-messages>
