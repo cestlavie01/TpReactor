@@ -4,7 +4,15 @@
   _italic_
 _italic_
   **bold**
-**bold**
+**bold**  
+  ***_bold italic***
+***_bold italic***  
+  ~~cancle~~  
+~~cancle~~  
+  <U>underline</U>
+<U>underline</U>
+  `block comment`
+`block comment`
 
 * * *
   # H1  
