@@ -48,7 +48,7 @@ _italic_
   3. THIRD  
   2. SECOND  
 1. FIRST
-3. THIRD
+3. 세번째
 2. SECOND
 
 * * *
