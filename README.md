@@ -1,15 +1,18 @@
 # TpReactor
 
 ***
-  _italic_
-_italic_
-  **bold**
+~~~
+*italic*  
 **bold**  
-  ***_bold italic***
-***_bold italic***  
-  ~~cancle~~  
+***bold italic***  
 ~~cancle~~  
-  `block comment`  
+`block comment`  
+~~~  
+
+*italic*
+**bold**  
+***_bold italic***  
+~~cancle~~  
 `block comment`  
 
 * * *
